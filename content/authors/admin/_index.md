@@ -17,8 +17,10 @@ role: PhD Candidate
 organizations:
 - name: Internet of Water
   url: "https://internetofwater.org"
-- name: Nicholes Institute for Environmental Policy Solutions
+- name: Nicholas Institute for Environmental Policy Solutions
+  url: "https://nicholasinstitute.duke.edu/"
 - name: Duke University
+  url: "https://duke.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
