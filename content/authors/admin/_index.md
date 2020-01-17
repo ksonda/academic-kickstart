@@ -11,7 +11,6 @@ superuser: true
 
 # Role/position
 role: Data Architect
-role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -26,9 +25,12 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Urban Water and Sanitation Infrastructure
+- Water Resources
+- Environmental Finance
+- Urban Form and Growth
+- Institutional Analysis
+- Hydroinformatics
 
 education:
   courses:
