@@ -31,6 +31,7 @@ interests:
 - Urban Form and Growth
 - Institutional Analysis
 - Hydroinformatics
+- Causal Inference in Social Science
 
 education:
   courses:
