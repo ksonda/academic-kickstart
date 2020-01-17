@@ -11,11 +11,14 @@ superuser: true
 
 # Role/position
 role: Data Architect
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Internet of Water, Nicholas Institute for Environmental Policy Solutions, Duke University
+- name: Internet of Water
   url: "https://internetofwater.org"
+- name: Nicholes Institute for Environmental Policy Solutions
+- name: Duke University
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
