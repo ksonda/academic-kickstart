@@ -14,8 +14,8 @@ role: Data Architect
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Internet of Water, Nicholas Institute for Environmental Policy Solutions, Duke University
+  url: "https://internetofwater.org"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
