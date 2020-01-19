@@ -22,7 +22,7 @@ organizations:
   url: "https://duke.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Data Architect and Econometrician
 
 interests:
 - Urban Water and Sanitation Infrastructure
@@ -82,11 +82,14 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
----
+#user_groups:
+#- Researchers
+#- Visitors
+#---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a trained environmental engineer, urban planner, environmental public health professional, and social scientist who has spent a 12-year academic and professional career working with data characterizing many aspects of water, the natural and built environments, and people. In doing so, I haved addressed a wide range of pressing policy questions at scales ranging from local land use decisions to international infrastructure finance.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm currently the Data Architect for the [Internet of Water](https://internetofwater.org) project of the [Nicholas Institute for Environmental Policy Solutions](https://nicholasinstitute.duke.edu) at [Duke University](https://duke.edu), where I develop standards, best practices, and templates for the storage, publishing, and cataloging of water-related data, as well as help educate water-producing agencies in ways to make water data discoverable, accessible, and interoperable. I am also a statistician for [Valor Water Analytics](https://valorwater.com), where I apply econometric methods and quasi-experimental research designs to customer-level water meter data to help utilities understand how their customers react to prices, information, and weather.
+
+
+
