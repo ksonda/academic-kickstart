@@ -85,7 +85,7 @@ email: ""
 #user_groups:
 #- Researchers
 #- Visitors
-#---
+---
 
 I'm a trained environmental engineer, urban planner, environmental public health professional, and social scientist who has spent a 12-year academic and professional career working with data characterizing many aspects of water, the natural and built environments, and people. In doing so, I haved addressed a wide range of pressing policy questions at scales ranging from local land use decisions to international infrastructure finance.
 
