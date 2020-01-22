@@ -8,13 +8,10 @@ abstract: "The measurement and characterization of urbanization crucially depend
 featured: false
 publication: "*Population and Environment*"
 links:
-  - icon_pack: fab
-    icon: twitter
-    name: Follow
-    url: 'https://twitter.com/Twitter'
-  - icon_pack: fab
-    icon: medium
-    name: Originally published on Medium
-    url: 'https://medium.com'
+  - icon_pack: fas
+    icon: external-link-alt
+    name: link
+    url: 'https://link.springer.com/article/10.1007/s11111-019-00329-2'
+
 ---
 
