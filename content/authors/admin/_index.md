@@ -87,7 +87,7 @@ email: ""
 #- Visitors
 ---
 
-I'm a trained environmental engineer, urban planner, environmental public health professional, and social scientist. I have spent a freew-wheeling academic and professional career working with data characterizing many aspects of water, the natural and built environments, and people. In doing so, I haved addressed a wide range of pressing policy questions, ranging from local land use decisions to international infrastructure finance.
+I'm a trained environmental engineer, urban planner, environmental public health professional, and social scientist. I have been lucky to pursue an academic and professional career engaging with diverse and interesting topics dealing with intersections between water, the natural and built environments, people, and political economy. In doing so, I haved addressed a wide range of pressing policy questions, ranging from local land use decisions to international infrastructure finance.
 
 On this page, you'll find  information about various academic, professional, and hobby projects. This website is also home to my blog, "[Kyle OnWater](https://www.kyleonda.com/post/)", where I opine on various water, data, and urban policy issues; provide tutorials on data science or data architecture related to water; and discuss news and other items concerning water, the environment, cities, and infrastructure.  
 
