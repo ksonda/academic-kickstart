@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Kyle S. Onda
+name: Kyle Onda
 
 # Username (this should match the folder name)
 authors:
