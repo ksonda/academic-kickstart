@@ -55,19 +55,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:kyle.onda@gmail.com
+  link: mailto:kyle.onda@ondawater.org
 - icon: github
   icon_pack: fab
   link: https://github.com/ksonda
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ksonda
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/adnosk
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=37npy6UAAAAJ&hl=en
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/adnosk
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=37npy6UAAAAJ&hl=en
 
 
 
