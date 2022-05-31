@@ -10,19 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Architect
+role: Associate Director
 
 # Organizations/Affiliations
 organizations:
 - name: Internet of Water
   url: "https://internetofwater.org"
-- name: Nicholas Institute for Environmental Policy Solutions
-  url: "https://nicholasinstitute.duke.edu/"
-- name: Duke University
-  url: "https://duke.edu/"
+- name: Center for Geospatial Solutions
+  url: "http://cgs.earth/"
+- name: Lincoln Institute of Land Policy
+  url: "https://lincolninst.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Data Architect and Econometrician
+bio: Data Architect and Social Scientist
 
 interests:
 - Urban Water and Sanitation Infrastructure
@@ -91,7 +91,7 @@ I'm a trained environmental engineer, urban planner, environmental public health
 
 On this page, you'll find  information about various academic, professional, and hobby projects. This website will also be home to my blog, "[Kyle OnWater](https://www.kyleonda.com/post/)", where I will opine on various water, data, and urban policy issues; provide tutorials on data science or data architecture related to water; and discuss news and other items concerning water, the environment, cities, and infrastructure.  
 
-I'm currently the Data Architect for the [Internet of Water](https://internetofwater.org) project of the [Nicholas Institute for Environmental Policy Solutions](https://nicholasinstitute.duke.edu) at [Duke University](https://duke.edu), where I develop standards, best practices, and templates for the storage, publishing, and cataloging of water-related data. In this role, I also educate agencies that produce water data in ways to make water data discoverable, accessible, and interoperable by adopting (meta)data standards, data exchange standards, API standards, as well as leveraging open-source software and public cloud services. I am also a data scientist for [Xylem](https://xylem.com), where I apply econometric methods and quasi-experimental research designs to customer-level water meter data and census data to help utilities understand how their customers react to prices, information, and weather.
+I'm currently the Associate Director for the [Internet of Water](https://internetofwater.org) initiative of the [Center for Geospatial Solutions](http://cgs.earth) at the [Lincoln Institute of Land Polic](https://lincolninst.edu), where I develop standards, best practices, and templates for the storage, publishing, and cataloging of water-related data. In this role, I also educate agencies that produce water data in ways to make water data discoverable, accessible, and interoperable by adopting (meta)data standards, data exchange standards, API standards, as well as leveraging open-source software and public cloud services. I am also a data scientist for [Xylem](https://xylem.com), where I apply econometric methods and quasi-experimental research designs to customer-level water meter data and census data to help utilities understand how their customers react to prices, information, and weather.
 
 
 
